@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+timm
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+pillow
+albumentations
+grad-cam

@@ -1,0 +1,15 @@
+# Normalize line endings automatically
+* text=auto
+
+# Python files should use LF
+*.py text eol=lf
+
+# CSV files should use LF
+*.csv text eol=lf
+
+# Jupyter notebooks should use LF
+*.ipynb text eol=lf
+
+# Markdown and text files
+*.md text eol=lf
+*.txt text eol=lf
