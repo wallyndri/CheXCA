@@ -18,5 +18,8 @@ It addresses:
    ```bash
    git clone https://github.com/your-username/CheXCA.git
    cd CheXCA
+<<<<<<< HEAD
 # CheXCA
 Cheska Love Jake Lawas
+=======
+>>>>>>> e90289c2c2d2e796bba229654df768f3d48da991
